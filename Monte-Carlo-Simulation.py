@@ -1,7 +1,7 @@
 import math
 import numpy as np
 
-S0 = 100.
+S0 = 105.
 K = 105.
 T = 1.0
 r = 0.05
