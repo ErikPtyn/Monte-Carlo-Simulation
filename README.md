@@ -4,8 +4,6 @@
 
 This project focuses on implementing a Monte Carlo simulation for pricing a European call option under the Black-Scholes-Merton (BSM) framework. The underlying asset's risk factor is assumed to follow a geometric Brownian motion, aligning with the assumptions of the BSM model.  
 
-This project is part of a financial computing initiative and serves as a demonstration of our proficiency in applying Python to financial engineering. Although the primary goal is to showcase our understanding of the theoretical framework and implementation, we have made every effort to ensure the project is as rigorous as possible within our current academic level.  
-
 ## Black-Scholes-Merton Model Assumptions  
 
 - The risk-free interest rate is known and constant.  
